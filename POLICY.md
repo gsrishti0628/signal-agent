@@ -54,6 +54,26 @@ is to spot a pattern across sources, not to react to a single email.
 - After notifying, append to SEEN.md: date, concept name, one-line
   description, and the most relevant source links to read for more depth.
 
+## Heartbeat status update (independent of concept notifications)
+- Purpose: confirm the monitor is alive and give a sense of the landscape
+  even during quiet stretches where nothing clears the "big enough to
+  surface" bar.
+- Check LOG.md for the most recent line tagged HEARTBEAT. If none exists,
+  or it is 14+ days old, send a heartbeat email as part of this run
+  (in addition to, not instead of, any concept notifications this run
+  produces).
+- Content: a short roundup of recurring or notable sub-threshold topics
+  seen across sources since the last heartbeat (even ones that didn't hit
+  2+ sources), framed as "here's what's been circulating." If genuinely
+  nothing stood out, say so plainly: "No major new AI themes this period
+  — quiet couple of weeks." Keep it a quick scan of what was already
+  gathered this run and prior LOG.md entries, not new deep research.
+- Subject: "AI signal: biweekly check-in".
+- After sending, append a line to LOG.md tagged HEARTBEAT with the date,
+  so the next run can tell when the last one went out.
+
 ## Logging
 - Every run appends one line to LOG.md: timestamp, threads scanned,
   concepts found, notifications sent (or "none").
+- Runs that also send a heartbeat append a second line tagged HEARTBEAT
+  with the date (used to track the 14-day heartbeat cadence above).
