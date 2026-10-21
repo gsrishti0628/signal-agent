@@ -6,3 +6,4 @@
 2026-10-20T15:04 UTC — threads scanned: 0 (no new threads from monitored senders since last run at ~14:00 UTC; 3 threads from earlier today already covered by prior runs), concepts found: 0, notifications sent: none
 2026-10-21T~07:00 UTC — threads scanned: 5 (huryn "Claude Desktop v2.0" — single non-flagship; ben-evans No.665 multi-topic: Meta Muse open-source variant, Amazon Bee, Anthropic IPO — no single dedicated concept; theaicorner1 Airbnb/AI productivity — no named concept; therundown "GPT-Live-1.1" — single non-flagship; thenuancedperspective+chai "AI Workflow Graphs" — single source network), concepts found: 0, notifications sent: none (heartbeat sent — no prior HEARTBEAT in log)
 HEARTBEAT 2026-10-21
+2026-10-21T15:11 UTC — threads scanned: 2 (therundown.ai "Sam Altman's three endings for the AI safety race" — single non-flagship source; thefoundercorner Airbnb pitch deck — no AI concept), concepts found: 0, notifications sent: none
