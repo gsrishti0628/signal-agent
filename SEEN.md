@@ -17,3 +17,13 @@
   "evals and vibes both matter" stance on model quality validation.
   Source: lenny@substack.com "What it actually takes to build frontier
   models | Tulsee Doshi (Head of Product for Gemini)" (2026-11-08).
+- Meta's Muse (2026-11-15) — Meta Superintelligence Labs' AI companion
+  app; currently #1 in the App Store and arguably the fastest-growing
+  AI consumer product ever. Personal assistant with shopping, home
+  automation, ambient presence; uses agent swarms for user insights;
+  7-month build emphasising reliability/safety ("Trust is a must");
+  originated from an internal experiment with OpenClaw (openclaw.ai),
+  a separate open AI agent platform worth watching in its own right.
+  Sources: lenny@substack.com "Meta's Muse: How we launched the most
+  successful consumer product this year | Mona Sarantakos" (2026-11-15);
+  https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs
